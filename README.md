@@ -67,7 +67,7 @@ To run the project locally, follow these steps:
 - Open the application in your web browser by visiting `http://localhost:3000`.
 - The application will display a list of beneficiaries or contacts.
 - Interact with the list by scrolling, searching, or applying filters if available.
-- Click on a beneficiary or contact to view more details or perform specific actions if implemented.
+
 
 
 
