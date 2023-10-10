@@ -48,7 +48,7 @@ To run the project locally, follow these steps:
 4. Start the development server:
 
    ````bash
-   npm start
+   node index.js
    ```
 
    The server will be running on `http://localhost:9000`.
