@@ -52,7 +52,7 @@ To run the project locally, follow these steps:
 
    The server will be running on `http://localhost:9000`.
 
-   5. Start the development Application  in the frontend folder:
+5. Start the development Application  in the frontend folder:
 
    ````bash
    npm start
