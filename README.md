@@ -15,7 +15,6 @@ This repository contains a simple React application that shows a list of benefic
 - [Description](#description)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
 - [License](#license)
 - [Contact](#contact)
 
