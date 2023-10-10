@@ -1,7 +1,9 @@
 # list-of-beneficiaries-contacts-
 Asal Solutions Coding challenge, simple React application that shows a list of beneficiaries (contacts)
 
+<img width="951" alt="contacts" src="https://github.com/kabuur/list-of-beneficiaries-contacts-/assets/99600215/289f4a3b-195a-4e48-8440-04d00310f865">
 
+<img width="952" alt="contacts2" src="https://github.com/kabuur/list-of-beneficiaries-contacts-/assets/99600215/39d81a4d-f1a9-4a2a-bd86-78423b2380e3">
 
 ---
 
