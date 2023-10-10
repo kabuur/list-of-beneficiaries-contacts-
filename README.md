@@ -51,7 +51,7 @@ To run the project locally, follow these steps:
    npm start
    ```
 
-   The application will be running on `http://localhost:3000`.
+   The application will be running on `http://localhost:9000`.
 
 ## Usage
 
