@@ -2,7 +2,7 @@
 Asal Solutions Coding challenge, simple React application that shows a list of beneficiaries (contacts)
 
 
-Certainly! Here's a more complete README file for the GitHub repository located at the provided link (https://github.com/kabuur/list-of-beneficiaries-contacts-):
+
 
 ---
 
