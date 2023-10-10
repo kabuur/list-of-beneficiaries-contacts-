@@ -1,0 +1,109 @@
+[
+    {
+      "ID": 1,
+      "Full_Name": "Ahmed Abdulkadir Mohamed",
+      "Mobile": "612757596",
+      "Target_Group": "Teacher"
+    },
+    {
+      "ID": 2,
+      "Full_Name": "Qalid Abdulahi Ahmed",
+      "Mobile": "614875698",
+      "Target_Group": "Teacher"
+    },
+    {
+      "ID": 3,
+      "Full_Name": "Mus'Ab Ali Omar",
+      "Mobile": "616869090",
+      "Target_Group": "Teacher"
+    },
+    {
+      "ID": 4,
+      "Full_Name": "Omar Mohamed Mahamud",
+      "Mobile": "613456787",
+      "Target_Group": "Principal"
+    },
+    {
+      "ID": 5,
+      "Full_Name": "Sharmake Ali Mohamed",
+      "Mobile": "907465898",
+      "Target_Group": "Principal"
+    },
+    {
+      "ID": 6,
+      "Full_Name": "Hussen Abukar Abduwahab",
+      "Mobile": "906458909",
+      "Target_Group": "Principal"
+    },
+    {
+      "ID": 7,
+      "Full_Name": "Abdinasir Mohamed Abdirahin",
+      "Mobile": "618754567",
+      "Target_Group": "FHW"
+    },
+    {
+      "ID": 8,
+      "Full_Name": "Abdi'Aziz Abdulkadir Mohamed",
+      "Mobile": "902647589",
+      "Target_Group": "FHW"
+    },
+    {
+      "ID": 9,
+      "Full_Name": "Sadam Hassan Mohammed" ,
+      "Mobile": "773456789",
+      "Target_Group": "FHW"
+    },
+
+
+
+    {
+        "ID": 10,
+        "Full_Name": "Hassan Omar shieq",
+        "Mobile": "902674589",
+        "Target_Group": "FHS"
+      },
+      {
+        "ID": 11,
+        "Full_Name": "Farax Nor Ali " ,
+        "Mobile": "775867609",
+        "Target_Group": "FHS"
+      },
+
+      {
+        "ID": 12,
+        "Full_Name": "Abdirazaq Nor Ali " ,
+        "Mobile": "909846789",
+        "Target_Group": "FHS"
+      },
+      {
+        "ID": 13,
+        "Full_Name": "Usama Abdulkadir Mohamed" ,
+        "Mobile": "772478909",
+        "Target_Group": "FHS"
+      },
+      {
+        "ID": 14,
+        "Full_Name": "Mohamed Abdinasir Mohamed",
+        "Mobile": "905657809",
+        "Target_Group": "Household"
+      },
+      {
+        "ID": 15,
+        "Full_Name": "Warsame Yusuf Gedi" ,
+        "Mobile": "776985678",
+        "Target_Group": "Household"
+      },
+      {
+        "ID": 16,
+        "Full_Name": "Salmaan Hassan Ali",
+        "Mobile": "906456789",
+        "Target_Group": "Household"
+      },
+      {
+        "ID": 17,
+        "Full_Name": "Luqman Hussen Farax" ,
+        "Mobile": "613758909",
+        "Target_Group": "Household"
+      }
+  
+  ]
