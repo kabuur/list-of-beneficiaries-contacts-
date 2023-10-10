@@ -68,15 +68,7 @@ To run the project locally, follow these steps:
 - Interact with the list by scrolling, searching, or applying filters if available.
 - Click on a beneficiary or contact to view more details or perform specific actions if implemented.
 
-## Contributing
 
-Contributions to the List of Beneficiaries (Contacts) project are welcome. To contribute, follow these steps:
-
-1. Fork the repository on GitHub.
-2. Create a new branch with a descriptive name for your feature or bug fix.
-3. Make your changes and commit them with clear commit messages.
-4. Push your changes to your forked repository.
-5. Submit a pull request to the main repository.
 
 ## License
 
@@ -86,9 +78,9 @@ This project is licensed under the [MIT License](LICENSE).
 
 If you have any questions or suggestions regarding the List of Beneficiaries (Contacts) project, please feel free to reach out:
 
-- Name: [Your Name]
-- Email: [Your Email]
-- GitHub: [Your GitHub Profile]
+- Name: [Ahmed Abdulkadir Mohamed]
+- Email: [axmedsahal933@gmail.coml]
+- GitHub: [https://github.com/kabuur]
 
 
 
