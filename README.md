@@ -45,13 +45,21 @@ To run the project locally, follow these steps:
    npm install
    ```
 
-4. Start the development server:
+4. Start the development server in the backend folder:
 
    ````bash
    node index.js
    ```
 
    The server will be running on `http://localhost:9000`.
+
+   5. Start the development Application  in the frontend folder:
+
+   ````bash
+   npm start
+   ```
+
+   The Application will be running on `http://localhost:3000`.
 
 ## Usage
 
